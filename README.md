@@ -60,7 +60,7 @@ Within this project, I went back to using GitHub after half a year and it helped
 
 ### Useful resources
 
-- [W3 Schools](https://www.w3schools.com/css/default.asp) - Esta página me ayudo a entender como centrar el contenedor. Me gusta como te permiten modificar el código para entender su funcionamiento.
+- [W3 Schools](https://www.w3schools.com/css/default.asp) - This page helped me to understand how to centre the container. I like how they allow you to modify the code to understand how it works.
 
 
 
